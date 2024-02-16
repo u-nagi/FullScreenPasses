@@ -1,0 +1,15 @@
+{
+  "name": "com.unagi.fullscreenpasses",
+  "description": "Post-processing materials for Unity URP",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "FullScreenPasses",
+  "author": {
+    "name": "u-nagi",
+    "email": "unagi1317@gmail.com",
+    "url": "https://github.com/u-nagi/FullScreenPasses.git"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.7"
+  }
+}
